@@ -1,6 +1,27 @@
 # Date due variabili a e b, invertirne il contenuto
 # il codice deve funzionare impostando *qualunque* valore di 
 # a e b
+a = 10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 a = 5
 b = 11
 
@@ -18,3 +39,36 @@ b = c
 
 print(a)
 print(b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a = 10 
+print(a)
